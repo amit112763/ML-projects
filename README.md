@@ -71,4 +71,4 @@ The model identifies short-term trends and patterns in the stock market to assis
 
 ---
 
-## 📁 Project Structure
+
